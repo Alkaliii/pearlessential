@@ -6,7 +6,7 @@ Bug reporting and tracking repo for the pecuilar game [pearlessential](https://p
 <img src="https://discordapp.com/api/guilds/864409514392027146/widget.png?style=shield" alt="Discord Shield"/>
 
 <h1>Welcome</h1>
-Thank you for playtesting and taking time to report and issue!
+Thank you for playtesting and taking time to report an issue!
 
 <h2>How Report an Issue</h2>
 
