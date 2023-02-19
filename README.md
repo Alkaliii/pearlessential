@@ -1,7 +1,7 @@
 # pearlessential
 Bug reporting and tracking repo for the pecuilar game [pearlessential](https://pearlessential.webflow.io/).
 
-[![JointheDiscordBanner](https://user-images.githubusercontent.com/53021785/204403780-04be1c51-b70e-430b-b61c-3d668c5ea458.png)](https://discord.gg/UZ3DCZXmr9)
+[![JointheDiscordBanner2](https://user-images.githubusercontent.com/53021785/219931596-67634f14-37b3-44b4-9ffd-60f40ead3d5a.png)](https://discord.gg/UZ3DCZXmr9)
 
 <img src="https://discordapp.com/api/guilds/864409514392027146/widget.png?style=shield" alt="Discord Shield"/>
 
